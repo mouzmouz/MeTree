@@ -28,8 +28,13 @@ A **between-subjects study** was conducted comparing:
 
 ## Credits
 Eleni Mouzaki
+
 Ioanna Vounzoulaki
+
 Michalina Modzelewska
+
 Veronica Dell'Aera
+
 Tim Winkler
+
 Nina Kukuljan
