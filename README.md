@@ -25,3 +25,11 @@ A **between-subjects study** was conducted comparing:
 - **Personas & Scenarios** – User-centered design considerations.
 - **Storyboarding & Wireframing** – Initial planning and UX flow.
 - **Low-Fidelity & High-Fidelity Prototypes** – Iterative testing and refinement.
+
+## Credits
+Eleni Mouzaki
+Ioanna Vounzoulaki
+Michalina Modzelewska
+Veronica Dell'Aera
+Tim Winkler
+Nina Kukuljan
